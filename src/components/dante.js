@@ -24,7 +24,7 @@ import {
   resetBlockWithType, 
   addNewBlockAt } from '../model/index.js'
 
-class Dante {
+export default class Dante {
   constructor(options) {
     if (options == null) {
       options = {}
@@ -293,4 +293,4 @@ class Dante {
   }
 }
 
-module.exports = Dante
+// module.exports = Dante
