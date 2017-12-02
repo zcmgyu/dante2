@@ -1,0 +1,23 @@
+{
+  "name": "Dante2",
+  "version": "0.3.6",
+  "homepage": "https://github.com/michelson/Dante2",
+  "author": "Miguel Michelson",
+  "license": "GPL-3.0",
+  "main": [
+    "Dante2.js"
+  ],
+  "keywords": [
+    "dante",
+    "dante2",
+    "react",
+    "wysiwyg",
+    "draft-js"
+  ],
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "react": "~15.3.0"
+  }
+}

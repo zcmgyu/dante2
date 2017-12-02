@@ -35,9 +35,9 @@ package
 *.tgz
 .babel_cache
 # Build stuff
-amd/
-lib/
-es/
+# amd/
+# lib/
+# es/
 tmp-bower-repo/
 tmp-docs-repo/
 .babel-cache/
